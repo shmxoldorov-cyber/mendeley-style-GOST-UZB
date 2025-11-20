@@ -4,15 +4,18 @@
   <info>
     <title>APA 7 – Numeric [bet]</title>
     <title-short>APAN</title-short>
-    <id>http://www.zotero.org/styles/apa-7-–-numeric</id>
-    <link href="http://www.zotero.org/styles/apa-7-–-numeric" rel="self"/>
+    <!-- ID va self-linkni oddiy ASCII URLga o'tkazamiz -->
+    <id>http://www.zotero.org/styles/apa-7-numeric-uzb</id>
+    <link href="http://www.zotero.org/styles/apa-7-numeric-uzb" rel="self"/>
+    <!-- Template sifatida istalgan APA stilini qoldirsa bo'ladi -->
     <link href="http://www.zotero.org/styles/apa-6th-edition" rel="template"/>
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references/examples" rel="documentation"/>
     <author>
       <name>Brenton M. Wiernik</name>
       <email>zotero@wiernik.org</email>
     </author>
-    <category citation-format="author-date"/>
+    <!-- Numeric stilga moslashtiramiz -->
+    <category citation-format="numeric"/>
     <category field="psychology"/>
     <category field="generic-base"/>
     <updated>2025-11-20T16:29:39+00:00</updated>
